@@ -1,3 +1,5 @@
 Hi! This is a first commit. Stay tuned for more!
 
 This is the second commit to the file.
+
+Why not make an additional change to the file to see if we understoon the process well?
